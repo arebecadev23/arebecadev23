@@ -2,7 +2,7 @@
 <bg_color = 
 <h2>𝐎𝐥á <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! 
 <br>
-<img src="https://i.pinimg.com/originals/72/8a/02/728a020d5290efa08d853c061307eb31.gif" width="250px"></h2></div>
+<img src="https://i.pinimg.com/originals/72/8a/02/728a020d5290efa08d853c061307eb31.gif" width="200px"></h2></div>
 </𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜>
 <div align="center" width="50">
 </div>
