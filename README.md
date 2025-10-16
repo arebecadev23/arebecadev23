@@ -1,3 +1,5 @@
+![header](header.svg)
+
 ## Olá, eu sou a Rebeca 👋
 
 - 🔭 Inicializando em programação 
