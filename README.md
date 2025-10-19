@@ -49,3 +49,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raghiante10/raghiante10/output/snake.svg" alt="Snake animation" />
+</p>
