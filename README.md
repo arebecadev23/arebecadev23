@@ -5,7 +5,7 @@
 
 <div align="center">
   <p>Este é meu perfil do GitHub, onde estarei mostrando meus programas e atividades!</p>
-  <p>Vamos nos conectar e fazer networking! <i>Vamos codar!!</i> 😊</p>
+  <p>Vamos nos conectar e fazer networking! <i>Vamos codar!!</i> 😊</p> 
 </div>
 
 <div align="center">
